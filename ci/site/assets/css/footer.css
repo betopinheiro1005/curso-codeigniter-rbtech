@@ -1,0 +1,26 @@
+.footer p {
+    font-family: 'Gudea', sans-serif;
+}
+.footer-bottom {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+    margin-top: 20px;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding-top: 7px;
+    padding-right: 35px;
+    text-align: right;
+}
+.design a {
+    color: #fff;
+}
